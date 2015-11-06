@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 title:      "Test Post"
 subtitle:   "Obligatory XKCD"
 date:       2015-11-05 12:00:00
